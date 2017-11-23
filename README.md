@@ -15,20 +15,20 @@ Git
 MongoDB 
 (3 hours)
 
-http://www.athensautosalesonline.com/index.shtml  
+http://www.AthensAutoSalesOnline.com/index.shtml  
 
-http://blastoffpowerwashing.com/  
+http://BlastOffPowerWashing.com/  
 responsive template 
 4 hours sprint, first week of October
 
-http://crudgames.com/  
+http://CrudGames.com/  
 responsive template 
 crudGAMES
 
-http://geolarp.com/  
+http://geoLARP.com/  
 MEAN
 
-http://pohlnerlandscaping.com/  
+http://PohlnerLandscaping.com/  
 MEAN
 
 http://TurtleWolfe.com/  
